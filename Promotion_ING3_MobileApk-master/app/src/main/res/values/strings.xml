@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Promotion ING 3</string>
+    <string name="image_d_accueil">Image d\'accueil</string>
+    <string name="bienvenu_e_en_ing_3">Bienvenu(e) en ING 3</string>
+    <string name="promotion_2024_2025">2024 - 2025</string>
+    <string name="galerie">Galerie</string>
+    <string name="mati_res">Matières</string>
+    <string name="nouvelle_photo">Ajouter une nouvelle photo</string>
+    <string name="student_image">Image d\'un étudiant</string>
+    <string name="notre_galerie">Notre Galerie</string>
+    <string name="liste_des_mati_res">Liste des Matières</string>
+    <string name="nom_de_la_mati_re">Nom de la matière</string>
+    <string name="nouvel_tudiant">Formulaire d\'Ajout </string>
+    <string name="pr_noms">Prénoms</string>
+    <string name="nom">Nom</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="s_lectionner_photo">Choisir une photo</string>
+</resources>

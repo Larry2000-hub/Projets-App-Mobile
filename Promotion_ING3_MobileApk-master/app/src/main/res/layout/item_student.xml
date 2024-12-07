@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="405dp"
+android:padding="8dp">
+
+<!-- Image de l'étudiant -->
+<ImageView
+    android:id="@+id/studentImage"
+    android:layout_width="300dp"
+    android:layout_height="300dp"
+    android:layout_gravity="center"
+    android:src="@drawable/defaut_student_image"
+    android:contentDescription="@string/student_image"
+    android:scaleType="centerCrop"
+    />
+
+<!-- Nom et prénom de l'étudiant -->
+<TextView
+    android:id="@+id/studentName"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Nom Prénoms"
+    android:gravity="center"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    android:textColor="@color/textColor"
+    android:layout_gravity="center"
+    android:layout_marginTop="175dp"
+    android:fontFamily="@font/archivo"
+
+
+    />
+</FrameLayout>

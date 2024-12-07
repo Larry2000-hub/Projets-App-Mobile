@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Style simplifié pour les boutons -->
+    <style name="ButtonStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">@font/archivo</item>
+        <item name="android:textColor">@color/principalColor</item>
+        <item name="android:background">@color/textColor</item>
+
+    </style>
+
+</resources>
