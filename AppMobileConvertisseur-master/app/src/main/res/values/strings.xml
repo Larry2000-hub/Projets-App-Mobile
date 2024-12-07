@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">1 to One</string>
+    <string-array name="language_options">
+        <item>Français</item>
+        <item>Anglais</item>
+        <item>Espagnol</item>
+    </string-array>
+</resources>
